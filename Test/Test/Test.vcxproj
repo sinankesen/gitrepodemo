@@ -146,6 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="demo.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>
