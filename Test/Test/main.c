@@ -2,7 +2,7 @@
 
 int main()
 {
-	int i = 0;
 	printf("Hello git\n");
+	printf("ingredients list\n");
 	return 0;
 }
