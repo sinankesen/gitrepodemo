@@ -7,5 +7,6 @@ int main()
 	printtf("merge test");
 	printf("Notes\n");
 	printf("Tests\n");
+	printf("hi its me\n");
 	return 0;
 }
